@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="71610" started-at="2016-11-10T09:51:27Z" finished-at="2016-11-10T09:52:39Z">
+  <suite name="Suite" duration-ms="40080" started-at="2016-11-10T12:03:30Z" finished-at="2016-11-10T12:04:10Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="71610" started-at="2016-11-10T09:51:27Z" finished-at="2016-11-10T09:52:39Z">
+    <test name="Test" duration-ms="40080" started-at="2016-11-10T12:03:30Z" finished-at="2016-11-10T12:04:10Z">
       <class name="TestCases.Login">
-        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="39471" started-at="2016-11-10T11:51:27Z" finished-at="2016-11-10T11:52:07Z">
+        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="16995" started-at="2016-11-10T14:03:30Z" finished-at="2016-11-10T14:03:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowse -->
-        <test-method status="PASS" signature="Login_Test_Invalid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_Invalid" duration-ms="3144" started-at="2016-11-10T11:52:07Z" finished-at="2016-11-10T11:52:10Z">
+        <test-method status="PASS" signature="Login_Test_Invalid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_Invalid" duration-ms="4229" started-at="2016-11-10T14:03:47Z" finished-at="2016-11-10T14:03:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_Test_Invalid -->
-        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="98" started-at="2016-11-10T11:52:10Z" finished-at="2016-11-10T11:52:10Z">
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="34" started-at="2016-11-10T14:03:51Z" finished-at="2016-11-10T14:03:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->
-        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="14935" started-at="2016-11-10T11:52:10Z" finished-at="2016-11-10T11:52:25Z">
+        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="14788" started-at="2016-11-10T14:03:51Z" finished-at="2016-11-10T14:04:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenBrowse -->
-        <test-method status="PASS" signature="Login_Test_valid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_valid" duration-ms="13926" started-at="2016-11-10T11:52:25Z" finished-at="2016-11-10T11:52:39Z">
+        <test-method status="PASS" signature="Login_Test_valid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_valid" duration-ms="3971" started-at="2016-11-10T14:04:06Z" finished-at="2016-11-10T14:04:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login_Test_valid -->
-        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="17" started-at="2016-11-10T11:52:39Z" finished-at="2016-11-10T11:52:39Z">
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="35" started-at="2016-11-10T14:04:10Z" finished-at="2016-11-10T14:04:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseBrowser -->

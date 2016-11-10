@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="TestSuite" time="17.07" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="TestSuite" time="8.184" errors="0" skipped="0">
   <properties>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -21,7 +21,7 @@
     <property name="JAVA_OPTS" value=" &quot;-Djdk.tls.ephemeralDHKeySize=2048&quot; -Djava.util.logging.config.file=&quot;E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="java.version" value="1.8.0_65"/>
-    <property name="JOB_NAME" value="ACE"/>
+    <property name="JOB_NAME" value="ACE_GIT"/>
     <property name="COMPUTERNAME" value="EGY-AHANAFY-NB"/>
     <property name="EXECUTABLE" value="E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\bin\catalina.bat"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
@@ -40,30 +40,30 @@
     <property name="user.script" value=""/>
     <property name="path.separator" value=";"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="BUILD_TAG" value="jenkins-ACE-5"/>
+    <property name="BUILD_TAG" value="jenkins-ACE_GIT-3"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="TVTCOMMON" value="C:\Program Files (x86)\Common Files\Lenovo"/>
     <property name="lib" value="C:\Program Files (x86)\SQLXML 3.0\bin\"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9 E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\webapps\jenkins\WEB-INF\lib\remoting-2.60.jar C:\Users\ahanafy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\ahanafy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 62725"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9 E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\webapps\jenkins\WEB-INF\lib\remoting-2.60.jar C:\Users\ahanafy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar C:\Users\ahanafy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.8.1.jar 18802"/>
     <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
     <property name="JENKINS_SERVER_COOKIE" value="d2d6c4f32c5b700b"/>
     <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_65/bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Lenovo;C:\Program Files\Common Files\Lenovo;C:\Program Files (x86)\Lenovo\Client Security Solution;C:\Program Files\Lenovo\Client Security Solution;C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security 10 for Windows SP1\;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files\Git\cmd;E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9\bin;E:\IDB\Integrant\SELF_Development\Automation Java\geckodriver-v0.11.1-win64;C:\python35\Scripts\;C:\python35\"/>
-    <property name="GIT_COMMIT" value="5140e5783a76e6d7df13cff230d4bd41d189b1bd"/>
+    <property name="GIT_COMMIT" value="34bf695c5a2821ef06716ff271753c94a4db61c5"/>
     <property name="java.io.tmpdir" value="C:\Users\ahanafy\AppData\Local\Temp\"/>
     <property name="APPDATA" value="C:\Users\ahanafy\AppData\Roaming"/>
     <property name="user.language" value="en"/>
     <property name="CATALINA_TMPDIR" value="E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\temp"/>
     <property name="line.separator" value="
 "/>
-    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/ACE/5/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/ACE_GIT/3/"/>
     <property name="JAVA_ENDORSED_DIRS" value="E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72\endorsed"/>
     <property name="ACTION" value="start"/>
     <property name="M2_HOME" value="E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="sun.desktop" value="windows"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
     <property name="OS" value="Windows_NT"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="CATALINA_BASE" value="E:\IDB\Integrant\SELF_Development\CI\apache-tomcat-7.0.72"/>
@@ -83,21 +83,20 @@
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="FP_NO_HOST_CHECK" value="NO"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="5"/>
+    <property name="BUILD_NUMBER" value="3"/>
     <property name="maven3.interceptor" value="C:\Users\ahanafy\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven33-interceptor-1.8.1.jar"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_65\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_65/bin;C:\Program Files\Java\jdk1.8.0_65/bin;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Lenovo;C:\Program Files\Common Files\Lenovo;C:\Program Files (x86)\Lenovo\Client Security Solution;C:\Program Files\Lenovo\Client Security Solution;C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security 10 for Windows SP1\;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files\Git\cmd;E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9\bin;E:\IDB\Integrant\SELF_Development\Automation Java\geckodriver-v0.11.1-win64;C:\python35\Scripts\;C:\python35\;."/>
     <property name="HOMEDRIVE" value="C:"/>
-    <property name="POM_GROUPID" value="MavenTest"/>
-    <property name="POM_ARTIFACTID" value="MavenTest"/>
     <property name="java.class.version" value="52.0"/>
     <property name="JSSE_OPTS" value="&quot;-Djdk.tls.ephemeralDHKeySize=2048&quot;"/>
     <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
     <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_65\bin\jdb.exe&quot;"/>
-    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/ACE/"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/ACE_GIT/"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="34bf695c5a2821ef06716ff271753c94a4db61c5"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
     <property name="JENKINS_HOME" value="C:\Users\ahanafy\.jenkins"/>
-    <property name="BUILD_ID" value="5"/>
+    <property name="BUILD_ID" value="3"/>
     <property name="TEMP" value="C:\Users\ahanafy\AppData\Local\Temp"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\bin"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -105,7 +104,6 @@
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="user.variant" value=""/>
     <property name="PROCESSOR_REVISION" value="2a07"/>
-    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="HUDSON_HOME" value="C:\Users\ahanafy\.jenkins"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
     <property name="PATH+MAVEN" value="E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9/bin"/>
@@ -136,7 +134,7 @@
     <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
     <property name="SWSHARE" value="C:\SWSHARE"/>
     <property name="os.arch" value="amd64"/>
-    <property name="WORKSPACE" value="C:\Users\ahanafy\.jenkins\workspace\ACE"/>
+    <property name="WORKSPACE" value="C:\Users\ahanafy\.jenkins\workspace\ACE_GIT"/>
     <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="SystemRoot" value="C:\Windows"/>
@@ -144,19 +142,17 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="file.separator" value="\"/>
     <property name="java.runtime.version" value="1.8.0_65-b17"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
     <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_65\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_65\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_65\jre\classes"/>
     <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_65/bin"/>
     <property name="user.country" value="US"/>
-    <property name="POM_PACKAGING" value="jar"/>
     <property name="maven.home" value="E:\IDB\Integrant\SELF_Development\CI\apache-maven-3.3.9"/>
-    <property name="JOB_BASE_NAME" value="ACE"/>
+    <property name="JOB_BASE_NAME" value="ACE_GIT"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="POM_DISPLAYNAME" value="MavenTest"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="GIT_URL" value="https://github.com/amrhanafy/ACE_CI"/>
   </properties>
-  <testcase classname="TestCases.Login" name="Login_Test_Invalid" time="3.145"/>
-  <testcase classname="TestCases.Login" name="Login_Test_valid" time="13.925"/>
+  <testcase classname="TestCases.Login" name="Login_Test_Invalid" time="4.224"/>
+  <testcase classname="TestCases.Login" name="Login_Test_valid" time="3.96"/>
 </testsuite>
