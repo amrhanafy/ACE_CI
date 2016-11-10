@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31493" started-at="2016-11-09T13:17:01Z" finished-at="2016-11-09T13:17:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31493" started-at="2016-11-09T13:17:01Z" finished-at="2016-11-09T13:17:32Z">
+      <class name="TestCases.Login">
+        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="14630" started-at="2016-11-09T15:17:01Z" finished-at="2016-11-09T15:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowse -->
+        <test-method status="PASS" signature="Login_Test_Invalid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_Invalid" duration-ms="1692" started-at="2016-11-09T15:17:15Z" finished-at="2016-11-09T15:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test_Invalid -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="34" started-at="2016-11-09T15:17:17Z" finished-at="2016-11-09T15:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="OpenBrowse()[pri:0, instance:TestCases.Login@3f2a3a5]" name="OpenBrowse" is-config="true" duration-ms="12412" started-at="2016-11-09T15:17:17Z" finished-at="2016-11-09T15:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowse -->
+        <test-method status="PASS" signature="Login_Test_valid()[pri:0, instance:TestCases.Login@3f2a3a5]" name="Login_Test_valid" duration-ms="2675" started-at="2016-11-09T15:17:29Z" finished-at="2016-11-09T15:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Test_valid -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCases.Login@3f2a3a5]" name="CloseBrowser" is-config="true" duration-ms="35" started-at="2016-11-09T15:17:32Z" finished-at="2016-11-09T15:17:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
