@@ -1,6 +1,6 @@
+PageObject\MainDashBoard.class
+PageObject\Login_POM.class
 TestCases\Login.class
 TestCases\BaseClass.class
-PageObject\MainDashBoard.class
 PageObject\UsersPage.class
-PageObject\Login_POM.class
 Libs\Excel_DDT.class
