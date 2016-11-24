@@ -19,7 +19,7 @@ public class Login extends BaseClass {
 				inputs.getcellvalue(inputs.Getcell("Password"), 1));
 		Login.ClickLogin();
 		Assert.assertTrue(MainDB.CheckHome());
-		System.out.println("Test case is passed with username_A" + inputs.getcellvalue(inputs.Getcell("UserName"), 1));
+		System.out.println("Test case is passed with username_test" + inputs.getcellvalue(inputs.Getcell("UserName"), 1));
 	}
 
 	@Test(priority = 0)
